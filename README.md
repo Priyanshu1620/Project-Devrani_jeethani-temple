@@ -1,3 +1,4 @@
 # Project-Devrani_jeethani-temple
-Reconstruction of Dewraani Jeethani temple using blender and deployment in Augmented Reality.
-Scan the given QR code from AR-Media Mobile application in ios.
+Reconstruction of the Dewraani-Jeethani Temple using Blender, with deployment in Augmented Reality (AR).  
+To explore the AR model, scan the provided QR code using the AR-Media mobile application on iOS.
+
